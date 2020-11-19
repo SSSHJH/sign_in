@@ -6,8 +6,8 @@ import asyncio
 
 # 填写葫芦侠账号密码
 config = {
-    "account": "###",
-    "password": "###",
+    "account": "13815281956",
+    "password": "123456879",
 }
 
 
